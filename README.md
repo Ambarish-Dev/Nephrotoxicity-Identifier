@@ -1,5 +1,5 @@
 # Nephrotoxicity-Identifier
-This is a robust software for analyzing kidney tissue slide images and identifying various types of damage caused by venom concentrations or any type of variation, involves several steps. Here's a high-level overview of how you could use this system :
+This is a software system for analyzing kidney tissue slide images and identifying various types of damage caused by venom concentrations or any type of variation, involves several steps. Here's a high-level overview of how you could use this system :
 
   # Image Preprocessing:
         Read the stained slide images.
